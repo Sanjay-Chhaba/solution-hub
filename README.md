@@ -1,6 +1,6 @@
-🚀 Engineering Lab
+🚀 Solution Hub
 
-Welcome to Engineering Lab — a collaborative space where we build real-world software projects, solve interesting problems, experiment with technologies, and learn by building.
+Welcome to Solution Hub — a collaborative space where we build real-world software projects, solve interesting problems, experiment with technologies, and learn by building.
 
 🎯 Our Mission
 Build practical, real-world projects.
@@ -10,7 +10,7 @@ Collaborate through code reviews and discussions.
 Build complete end-to-end solutions.
 📂 Repository Structure
 text
-engineering-lab/
+solution-hub/
 │
 ├── projects/
 │   ├── project-01/
@@ -35,8 +35,6 @@ Develop and test the solution.
 Open a Pull Request.
 Review and merge the code.
 👥 Maintainers
-Repository Owner: [Your GitHub Username]
-Maintainer: [Friend's GitHub Username]
 🤝 Collaboration
 
 We welcome ideas, discussions, feedback, and contributions.
